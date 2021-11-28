@@ -1,2 +1,3 @@
-# Projet-Machine-Learning
-Création d'un perceptron, utilisation de keras
+# Projet Machine Learning
+## Quentin LACHAUSSEE PROMO 2
+### 28/11/2021
